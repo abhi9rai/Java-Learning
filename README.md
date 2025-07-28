@@ -1,43 +1,40 @@
-# Java-Learning 🚀
+# 👋 Hi, I'm Abhinav Rai
 
-This repository contains my journey of learning Java, structured into packages:
-
-## 📁 Structure
-
-
-## 📌 Topics Covered
-
-### ✅ Basics
-- Hello World
-- Data Types & Variables
-- Loops
-- Arrays
-- Functions
-
-### ✅ OOP
-- Classes and Objects
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
-
-### ✅ DSA
-- Linear Search
-- Binary Search
-- Sorting Algorithms
-- Recursion
-- ArrayList
+🎓 **B.Tech CSE Student @ AKTU**  
+💻 Currently learning **Java**, **DSA**, and **Full Stack Web Development**
 
 ---
 
-## 🛠️ Tools Used
-- Java (JDK 17 or above)
-- IntelliJ IDEA
-- Git & GitHub
+## 🚀 Tech Stack I'm Working On:
+
+- 💻 **Languages:** Java, Python, HTML, CSS, JavaScript
+- 🧠 **DSA:** Practicing with Java
+- 🌐 **Web Development:** Learning Frontend & Backend
+    - Frontend: HTML, CSS, JavaScript
+    - Backend: Node.js, Express.js
+    - Database: MongoDB
 
 ---
 
-## 🔄 Updates
-I’ll be updating this repo regularly as I learn new topics.  
-Stay tuned!
+## 📈 Currently Exploring:
+- 🔧 Full Stack Projects
+- 🗂️ Git & GitHub for version control
+- 🌱 Building problem-solving skills for placements
 
+---
+
+## 📫 How to reach me:
+- ✉️ Email: abhinavrai9453@gmail.com
+- 🌐 Portfolio (Coming Soon!)
+- 💼 LinkedIn: https://www.linkedin.com/in/abhinav-rai-066b79331/
+
+---
+
+## 📊 GitHub Stats
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi9rai&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9rai&layout=compact&theme=github_dark)
+
+---
+
+> “Consistency is more important than intensity.”  
+> — Let’s build, learn, and grow — one commit at a time 🚀
