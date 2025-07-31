@@ -1,6 +1,6 @@
 package basics;
 
-public class literals_04 {
+public class Literals_04 {
     public static void main(String[] args) {
         byte age = 34;
         short age1 = 44;

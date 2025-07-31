@@ -1,6 +1,6 @@
 package basics;
 
-public class addthreenumbers {
+public class AddThreeNumbers {
     public static void main(String[] args){
         int a=5;
         int b=6;
