@@ -83,13 +83,60 @@ public class PracticeSet_6_29 {
             }
             System.out.println(" ");
         }
-        */
 
 //        Practice Problem 5
         int [] arr={1,2,3,4,5,6};
+        int l=arr.length;
         int n =Math.floorDiv(arr.length,2);
+        int temp;
         for (int i=0;i<n;i++){
-
+            temp=arr[i];
+            arr[i]=arr[l-i-1];
+            arr[l-i-1]=temp;
         }
+        for (int element:arr){
+            System.out.print(element+" ");
+        }
+
+//        Practice Problem 6
+
+        int[] arr ={1,2,3,4,5,6};
+        int max=arr[0];
+        for (int i=0;i<arr.length;i++){
+            if (arr[i]>max){
+                max=arr[i];
+            }
+        }
+        System.out.println(max);
+
+
+
+//        Practice Problem 7
+        int[] arr ={2,3,4,5,1,6};
+        int min =arr[0];
+        for (int i=0;i<arr.length;i++){
+            if (arr[i]<min){
+                min=arr[i];
+            }
+        }
+        System.out.println(min);
+
+         */
+
+        int[] arr ={2,3,4,5,1,6};
+        boolean isSorted =true;
+        for (int i =0; i<arr.length-1;i++){
+            if (arr[i]>arr[i+1]){
+                isSorted=false;
+                break;
+            }
+        }
+        if (isSorted){
+            System.out.println("The Array is sorted");
+        }
+        else{
+            System.out.println("The Array is not sorted");
+        }
+
     }
 }
