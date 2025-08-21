@@ -3,7 +3,7 @@ package basics;
 public class PracticeSet_6_29 {
     public static void main(String[] args) {
 //        Practice Problem 1
-        /*float[] arr = new float[5];
+        /* float[] arr = new float[5];
         arr[0]=98.5f;
         arr[1]=99.5f;
         arr[2]=96.5f;
