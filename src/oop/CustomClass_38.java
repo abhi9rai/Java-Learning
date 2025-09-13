@@ -11,7 +11,7 @@ class Employee{
         return salary;
     }
 }
-public class CustomClass {
+public class CustomClass_38 {
     public static void main(String[] args) {
         System.out.println("This is our custom class");
         Employee Abhinav = new Employee();
