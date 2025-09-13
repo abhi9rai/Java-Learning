@@ -19,7 +19,7 @@ public class varargs_33 {
         System.out.println("Welcome to Varargs Tutorial");
         System.out.println("The sum of 4 and 5 is: "+ sum(4,5));
         System.out.println("The sum of 4,3 and 5 is: "+ sum(4,3,5));
-        System.out.println("The sum of 4,3,1 and 5 is: "+ sum(4,1,3,5));
+        System.out.println("The sum of 4,3,1 and 5 is: "+ sum(5,5,7,8));
 
     }
 }
