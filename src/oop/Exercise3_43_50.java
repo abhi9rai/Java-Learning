@@ -48,7 +48,7 @@ class Game {
 }
 
 // Main Game
-public class Exercise3_43 {
+public class Exercise3_43_50 {
     public static void main(String[] args) {
         Game game = new Game();
         boolean guessed = false;
