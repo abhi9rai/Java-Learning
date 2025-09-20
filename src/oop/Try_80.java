@@ -15,6 +15,7 @@ public class Try_80 {
         try{
             int c=a/b;
         } catch (RuntimeException e) {
+
             System.out.println("We failed to divide. Reason ");
             System.out.println(e);
         }
