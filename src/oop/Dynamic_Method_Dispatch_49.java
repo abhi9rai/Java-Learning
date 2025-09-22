@@ -4,6 +4,9 @@ class Phone{
     public void greet(){
         System.out.println("Good Morning");
     }
+    public void showTime(){
+        System.out.println("Time is 8 am");
+    }
     public void on(){
         System.out.println("Turning on Phone");
     }
