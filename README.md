@@ -25,7 +25,6 @@
 
 ## 📫 How to reach me:
 - ✉️ Email: abhinavrai9453@gmail.com
-- 🌐 Portfolio (Coming Soon!)
 - 💼 LinkedIn: https://www.linkedin.com/in/abhinav-rai-066b79331/
 
 ---
