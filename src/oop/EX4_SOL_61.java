@@ -1,9 +1,9 @@
 package oop;
 
-class Library{
+class Library1{
     String [] books;
     int no_of_books;
-    Library(){
+    Library1(){
         this.books =new String[100];
         this.no_of_books=0;
     }
@@ -41,7 +41,7 @@ class Library{
 
 public class EX4_SOL_61 {
     public static void main(String[] args) {
-        Library centralLibrary= new Library();
+        Library1 centralLibrary= new Library1();
         centralLibrary .addBook("Think and grow Rich");
         centralLibrary .addBook("Algorithms");
         centralLibrary .addBook("C++");
